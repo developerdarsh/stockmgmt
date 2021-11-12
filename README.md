@@ -17,7 +17,7 @@ You need to make following changes
 	make necessary changes to local to your directory where the files resides. Mine were in C:/xampp/htdocs/test/darshit/
 	Don't forget to add leading and trailing '/', else it won't work as expected.
 
-
+3)  'DB' folder has the database dump. Please set the database on your local xampp.
 
 
 
